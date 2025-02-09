@@ -1,7 +1,6 @@
 # Conway's Game of Life in Assembly
 
-![Assembly Logo](https://upload.wikimedia.org/wikipedia/commons/2/28/Assembly_language_logo.svg)
-
+[![Assembly Logo](https://blog.datawrapper.de/game-of-life/)]
 ## Overview
 This project is an implementation of Conway's Game of Life, written in Assembly. It simulates cellular automata using low-level programming, demonstrating efficient computation and memory management techniques.
 
