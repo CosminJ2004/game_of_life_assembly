@@ -1,6 +1,6 @@
 # Conway's Game of Life in Assembly
 
-[![Game of Life][(https://blog.datawrapper.de/game-of-life/)](https://pi.math.cornell.edu/~lipa/mec/4life2.png)]
+[[Game of Life][(https://pi.math.cornell.edu/~lipa/mec/4life2.png)]]
 ## Overview
 This project is an implementation of Conway's Game of Life, written in Assembly. It simulates cellular automata using low-level programming, demonstrating efficient computation and memory management techniques.
 
